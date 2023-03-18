@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - This is the main code.
+ * main - This is the actuall code 
  *
  * Return: This is always returns 0
  */
