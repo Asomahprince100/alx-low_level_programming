@@ -1,4 +1,4 @@
-i/**
+/**
  * _memcpy - function that copies memory area
  *
  * @dest: buffer where we will copy to

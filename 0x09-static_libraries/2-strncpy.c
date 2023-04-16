@@ -1,3 +1,4 @@
+
 /**
  * _strncpy - A function that copies a string.
  *

@@ -1,3 +1,4 @@
+
 /**
  * _isupper - check if c is upper
  *
@@ -16,5 +17,5 @@ int _isupper(int c)
 	{
 		return (0);
 	}
-} 
+}
 
